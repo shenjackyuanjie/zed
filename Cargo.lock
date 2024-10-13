@@ -4933,7 +4933,6 @@ dependencies = [
  "unindent",
  "url",
  "util",
- "windows 0.58.0",
 ]
 
 [[package]]
@@ -6644,7 +6643,6 @@ dependencies = [
  "tree-sitter-yaml",
  "unindent",
  "util",
- "windows 0.58.0",
  "workspace",
 ]
 
@@ -6922,7 +6920,6 @@ dependencies = [
  "serde_json",
  "smol",
  "util",
- "windows 0.58.0",
 ]
 
 [[package]]
@@ -7461,7 +7458,6 @@ dependencies = [
  "util",
  "walkdir",
  "which 6.0.3",
- "windows 0.58.0",
 ]
 
 [[package]]
@@ -9150,7 +9146,6 @@ dependencies = [
  "url",
  "util",
  "which 6.0.3",
- "windows 0.58.0",
  "worktree",
 ]
 
@@ -9911,7 +9906,6 @@ dependencies = [
  "ui",
  "util",
  "uuid",
- "windows 0.58.0",
  "workspace",
 ]
 
@@ -11798,7 +11792,6 @@ dependencies = [
  "ui",
  "unicode-segmentation",
  "util",
- "windows 0.58.0",
 ]
 
 [[package]]
